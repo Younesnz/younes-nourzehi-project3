@@ -2,7 +2,7 @@
 
 This project is a full-stack MERN (MongoDB, Express, React, Node.js) Sudoku application built as a final project.
 
-- Stuedent: **Younes Nourzehi**
+- Student: **Younes Nourzehi**
 - Github Repo: **https://github.com/Younesnz/younes-nourzehi-project3**
 - Walkthrough Video: **https://go.screenpal.com/watch/cOfZebnOasK**
 - Link to Deployed app: **https://sudoku-younes.onrender.com/**
